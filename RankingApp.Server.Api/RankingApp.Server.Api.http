@@ -1,0 +1,6 @@
+@RankingApp.Server.Api_HostAddress = http://localhost:5027
+
+GET {{RankingApp.Server.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
